@@ -95,9 +95,10 @@ Penyelesaian :
 
 Step 1 : Menentukan H0 dan H1
 
+```r
 H0: mean <= 25000
-
 H1: mean > 25000
+```
 
 Step 2 : Menggunakan Library (BSDA) dan Menentukan variabel
 
